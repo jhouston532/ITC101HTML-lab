@@ -1,0 +1,51 @@
+
+body {
+    background-color: darkgreen;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+h1 {
+    color: lightgreen;
+    font-size: 24px;
+}
+
+h2 {
+    color: lightgreen; 
+    font-size: 22px;
+}
+
+h3{
+    color: gold; 
+    font-size: 18px;
+}
+
+h4 {
+    color: gold; 
+    font-size: 14px;
+}
+
+h5{
+    color:#a30000;
+    font-size: 36px; 
+}
+
+a{
+    color: lightblue; 
+}
+
+p {
+    color: white;
+}
+
+div{
+    color: white; 
+}
+
+.frodo{
+    color: skyblue;
+}
+
+.sam{
+    color: burlywood; 
+}
